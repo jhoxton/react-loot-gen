@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+.blockLeft {
+	border-style:solid;
+	width: 50%;
+	float: left;
+}
+.blockRight {
+	border-style:solid;
+	width: 50%;
+	float: left;
+}
+.numInput {
+	width: 10%;
+}
+.output {
+	width: 100%;
+
+}
